@@ -1,0 +1,7 @@
+﻿-IC:\Users\toong\Downloads\Machine-Learning-Day1\integration\codegen\work\codegen
+-IC:\Users\toong\Downloads\Machine-Learning-Day1\integration\codegen\work\codegen\feedback_control_ert_rtw
+-I"C:\Program Files\MATLAB\R2024b\extern\include"
+-I"C:\Program Files\MATLAB\R2024b\simulink\include"
+-I"C:\Program Files\MATLAB\R2024b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2024b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2024b\rtw\c\ert"
